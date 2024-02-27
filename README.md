@@ -17,3 +17,5 @@ With the traffic data, end-to-end analysis can be carried out in depth. E.g.,
 3) Re-transmission effectiveness test
 
 The picture below shows the running flow and control logic of this repository:
+
+![alt text](https://github.com/yanbozhang003/LoRaWAN-Automatic_Exp_Testbed/blob/main/Picture1.png)
