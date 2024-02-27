@@ -15,3 +15,5 @@ With the traffic data, end-to-end analysis can be carried out in depth. E.g.,
 1) UL/DL PRR calculation
 2) ALOHA/CSMA performance comparison
 3) Re-transmission effectiveness test
+
+The picture below shows the running flow and control logic of this repository:
